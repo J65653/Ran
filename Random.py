@@ -150,14 +150,13 @@ awan =[
 'Mozilla/5.0 (Linux; Android 12; SM-M325FV Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.5060.71 Mobile Safari/537.36',
 'Mozilla/5.0 (Linux; Android 11; SM-M325FV Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/98.0.4758.87 Mobile Safari/537.36',]
 logo=("""\033[1;92m     
-
-        ##     ##     ######      ######  
-        ###   ###    ##    ##    ##    ## 
-        #### ####    ##          ##       
-        ## ### ##     ######      ######  
-        ##     ##          ##          ## 
-        ##     ##    ##    ##    ##    ## 
-        ##     ##     ######      ######                                                               
+d88b d888888b d8888b.  .d88b.  d8b   db      
+   `8P'   `88'   88  `8D .8P  Y8. 888o  88      
+    88     88    88oooY' 88    88 88V8o 88      
+    88     88    88~~~b. 88    88 88 V8o88      
+db. 88    .88.   88   8D `8b  d8' 88  V888      
+Y8888P  Y888888P Y8888P'  `Y88P'  VP   V8P      
+                                                                                                         
 \033[1;34m--------------------------------------------------
 \033[1;39m \033[0;91m𝙊𝙒𝙉𝙀𝙍    \033[1;39m: \033[1;33mMD JIBON 
 \033[1;39m \033[0;92m𝙔𝙊𝙐𝙏𝙐𝘽𝙀  \033[1;39m: \033[1;32mNO? 
